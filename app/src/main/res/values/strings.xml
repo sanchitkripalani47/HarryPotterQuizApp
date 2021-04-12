@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PotterBuzz</string>
+    <string name="Header_line1">The   Ultimate</string>
+    <string name="Header_line2">Harry    Potter</string>
+    <string name="Header_line3">Quiz</string>
+    <string name="button_line">Alohomora</string>
+    <string name="high_score_0">High Score: 0</string>
+</resources>
